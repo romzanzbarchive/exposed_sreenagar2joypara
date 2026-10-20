@@ -1,0 +1,9 @@
+@media(max-width:700px){
+body{font-size:16px}
+.sec{padding:44px 0}
+.hero{padding:64px 0 56px}
+.hero .btn-row .btn{width:100%;text-align:center}
+.grid{grid-template-columns:1fr}
+.page-hero{padding:36px 0}
+.lb .pv,.lb .nx{top:auto;bottom:16px}
+}
